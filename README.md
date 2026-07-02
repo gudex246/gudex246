@@ -3,8 +3,6 @@
 <!--
 gudex246/gudex246 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-
 🚀 About Me
 
 I'm a Full-Stack Web Developer from Ethiopia 🇪🇹 who enjoys building technology that solves real-world problems.
